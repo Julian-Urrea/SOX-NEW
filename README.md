@@ -23,8 +23,6 @@ Desarrollar el software Sox para mejorar el registro y control de inventario de 
 ## ❓ Pregunta Problema
 ¿Cómo se puede generar eficacia al momento de la entrega de la mercancía en base a la información de la mercancía ? 
 
-### 1.2 :dart: Objetivo general
-Implementar el  software sox de control y registro de inventario con despacho donde le permitirá a las empresas tener una mayor gestión de información de la mercancía ingresada, optimizando su organización, desempeño y calidad, obteniendo una mejor logística y orden en la entrega e información de la mercancía  ofreciendo un servicio óptimo y seguro.
 
 ## 📌 Alcance del Proyecto
 El software sox es un programa concreto en el registro y control de inventario con despacho para las empresas de transporte. facilita la creación de informes de la mercancía, almacenando en la base de datos información de entradas y salidas de la mercancía y usuarios, este sistema mejora el inventario interno de la empresa, teniendo  una mejor funcionalidad y efectividad en la empresa.
